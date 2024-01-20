@@ -13,7 +13,7 @@
 
   Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://github.com/bruna15limaa/Sabores_do_mundo"><strong>➥ Live Demo</strong></a>
+  <a href="https://bruna15limaa.github.io/Sabores_do_mundo/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
